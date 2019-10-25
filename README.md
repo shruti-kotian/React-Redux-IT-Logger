@@ -1,4 +1,4 @@
-ITLogger
+IT Logger
 
     React app to manage IT department tasks and issues. Uses JSON-Server as a mock backend.
 
