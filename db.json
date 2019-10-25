@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 001",
+      "attention": false,
+      "tech": "Shweta Kotian",
+      "date": "2019-10-24T03:45:14.840Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 003",
+      "attention": true,
+      "tech": "Rohan Suvarna",
+      "date": "2019-10-24T03:47:14.684Z"
+    },
+    {
+      "id": 3,
+      "message": "New server up",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-10-25T01:17:44.925Z"
+    },
+    {
+      "id": 4,
+      "message": "Wiring done changed",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-10-25T03:49:21.896Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "shashi",
+      "lastName": "kotian",
+      "id": 4
+    }
+  ]
+}
